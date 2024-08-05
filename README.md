@@ -22,7 +22,8 @@ To run the Multiple Disease Prediction web application, follow these steps:
 
 2.Run the following command to start the Streamlit application:
 
-*streamlit run app.py*
+# *streamlit run app.py*
+
 3.Access the web application by opening the provided URL in your web browser.
 
 4.Input the relevant medical information as requested by the application.
